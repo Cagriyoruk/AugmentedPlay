@@ -9,3 +9,6 @@ Create an Augmented Reality Piano App that let's you play piano on your phone.
   * We have to use a API key in order to use Vuforia. (So don't forget to get the key)
   
   
+## Block diagram
+
+![Block](https://user-images.githubusercontent.com/55101879/80834720-43290e80-8bbf-11ea-9a63-de41731cbed5.png)
