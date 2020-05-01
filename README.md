@@ -12,3 +12,7 @@ Create an Augmented Reality Piano App that let's you play piano on your phone.
 ## Block diagram
 
 ![Block](https://user-images.githubusercontent.com/55101879/80834720-43290e80-8bbf-11ea-9a63-de41731cbed5.png)
+
+## Cagri's Implementation
+
+![Hs](https://user-images.githubusercontent.com/55101879/80834784-5fc54680-8bbf-11ea-9a5e-6a78b291bf79.jpg)
