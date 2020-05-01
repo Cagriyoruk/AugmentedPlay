@@ -19,4 +19,4 @@ Create an Augmented Reality Piano App that let's you play piano on your phone.
 
 ## Qingxuan's Implementation
 
-![Hs](https://github.com/Cagriyoruk/AugmentedPlay/blob/master/Qingxuan%20Implementation/pics/pianodemo.jpg)
+
